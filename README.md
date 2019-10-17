@@ -1,13 +1,13 @@
  master
-# Water-Flow Methodology
+# Water-Fall Methodology
 The Waterfall Model was the first Process Model to be introduced. It is also referred to as a linear-sequential life cycle model.
 In waterfal methodology each phase must be completed before the next phase begins and there is no overlapping in the phase  
 
-# Waterflow Methodology
+# Waterfall Methodology
 Waterfall methodology follows are series of steps which are reminiscent of how traditional industries have worked in the past. Waterfall methodology consists of several stages each of which must be completed before the next stage begins and there is no overlapping in the stages.
 
 master
-## Advantages
+## Benefits
 Some advantages of Waterfall methodology are following:
 + *Use Clear Structure:* Each project goes through following steps:
     + Requirements Gathering and Documentation
